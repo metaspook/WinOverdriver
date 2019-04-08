@@ -19,8 +19,8 @@ Windows Drivers signature verification disabler.
 
 ### Instructions:
 * "WinOverdriver-vx.x-release.zip"
-* Right click on "v4w-patcher-vx.x-release.zip" select 'Extract All'.
-* Inside extracted folder run "v4w-patcher.bat"
+* Right click on "WinOverdriver-vx.x-release.zip" select 'Extract All'.
+* Inside extracted folder run "WinOverdriver.cmd"
 * You can move and run this script from anywhere. 😉
 * Use everytime when need to install drivers that needs drivers signature verification disabled.
 
