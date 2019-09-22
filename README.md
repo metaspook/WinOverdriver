@@ -15,7 +15,7 @@ Windows Drivers signature verification disabler.
 * Windows 7 - 10+
 
 ### Download:
-#### [WinOverdriver (Latest)](https://github.com/metaspook/WinOverdriver/releases/download/v1.0/WinOverdriver-v1.0-release.zip)
+#### [WinOverdriver (Latest)](https://github.com/metaspook/WinOverdriver/releases/download/v1.1/WinOverdriver-v1.1-release.zip)
 
 ### Instructions:
 * "WinOverdriver-vx.x-release.zip"
@@ -25,4 +25,5 @@ Windows Drivers signature verification disabler.
 * Use everytime when need to install drivers that needs drivers signature verification disabled.
 
 ### Change Log:
+* v1.1: Cosmetic changes.
 * v1.0: Initial Release.

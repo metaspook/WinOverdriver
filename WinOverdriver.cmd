@@ -1,5 +1,5 @@
 :: WinOverdriver.
-:: Version: 1.0
+:: Version: 1.1
 :: Written by Metaspook
 :: License: <http://opensource.org/licenses/MIT>
 :: Copyright (c) 2019 Metaspook.
@@ -22,7 +22,7 @@ if '%errorlevel%' NEQ '0' (
 title "WinOverdriver"
 color 0B
 pushd "%~dp0"
-set APPVAR=1.0
+set APPVAR=1.1
 mode con: cols=50 lines=25
 
 :CHOICE_MENU
@@ -62,5 +62,6 @@ echo                       _______________
 echo                WinOverdriver v%APPVAR%    \__ 
 echo         \\  Written by Metaspook     /  \ 
 echo          \\_____________________     \__/
-echo.&echo.&echo.&echo.
+echo.&echo      Disables Driver signature verification.
+echo.&echo.
 goto:eof
